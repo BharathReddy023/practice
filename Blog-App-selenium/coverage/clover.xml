@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1701883045278" clover="3.2.0">
+  <project timestamp="1701883045278" name="All files">
+    <metrics statements="43" coveredstatements="20" conditionals="2" coveredconditionals="1" methods="14" coveredmethods="9" elements="59" coveredelements="30" complexity="0" loc="43" ncloc="43" packages="4" files="9" classes="9"/>
+    <package name="TestFiles.CompStateTest">
+      <metrics statements="6" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="CounterStateTest.js" path="/home/bharath.reddy@npci.org.in/Desktop/Practice/React/AFSD/Blog-App-selenium/src/TestFiles/CompStateTest/CounterStateTest.js">
+        <metrics statements="6" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="TestFiles.SeleniumTest">
+      <metrics statements="13" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="LoginTest.js" path="/home/bharath.reddy@npci.org.in/Desktop/Practice/React/AFSD/Blog-App-selenium/src/TestFiles/SeleniumTest/LoginTest.js">
+        <metrics statements="13" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="allComponents">
+      <metrics statements="23" coveredstatements="19" conditionals="2" coveredconditionals="1" methods="12" coveredmethods="9"/>
+      <file name="AboutUs.js" path="/home/bharath.reddy@npci.org.in/Desktop/Practice/React/AFSD/Blog-App-selenium/src/allComponents/AboutUs.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+      <file name="AuthContext.js" path="/home/bharath.reddy@npci.org.in/Desktop/Practice/React/AFSD/Blog-App-selenium/src/allComponents/AuthContext.js">
+        <metrics statements="9" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="2"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="26" count="2" type="stmt"/>
+      </file>
+      <file name="ContactUs.js" path="/home/bharath.reddy@npci.org.in/Desktop/Practice/React/AFSD/Blog-App-selenium/src/allComponents/ContactUs.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="49" count="1" type="stmt"/>
+      </file>
+      <file name="Greeting.js" path="/home/bharath.reddy@npci.org.in/Desktop/Practice/React/AFSD/Blog-App-selenium/src/allComponents/Greeting.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+      <file name="Header.js" path="/home/bharath.reddy@npci.org.in/Desktop/Practice/React/AFSD/Blog-App-selenium/src/allComponents/Header.js">
+        <metrics statements="6" coveredstatements="4" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="1"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+      </file>
+      <file name="Home.js" path="/home/bharath.reddy@npci.org.in/Desktop/Practice/React/AFSD/Blog-App-selenium/src/allComponents/Home.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="allComponents.DummyData">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="blogs.js" path="/home/bharath.reddy@npci.org.in/Desktop/Practice/React/AFSD/Blog-App-selenium/src/allComponents/DummyData/blogs.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
