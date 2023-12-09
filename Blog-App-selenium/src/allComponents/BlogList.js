@@ -13,7 +13,7 @@ function BlogList() {
 
       <section className="hero bg-primary text-white text-center py-5">
         <div className="container">
-          <h1 className="display-4">All Blogs</h1>
+          <h1 className="display-4">All Blogs branch2</h1>
           <p>Welcome, {username}!</p>
           <p className="lead">
             Explore a world of knowledge, creativity, and inspiration.
